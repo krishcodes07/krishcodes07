@@ -1,7 +1,7 @@
 # 🚀 Hi I am Krish
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Building+the+Future+with+AI;J.A.R.V.I.S+Development+in+Progress;Voice%2C+Vision%2C+Automation+%E2%9A%A1;No+Basic+Projects%2C+Only+Insane+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Building+the+Future+with+AI;Voice%2C+Vision%2C+Automation+%E2%9A%A1;No+Basic+Projects%2C+Only+Insane+Stuff" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -58,13 +58,6 @@
 ## 📊 **BATTLE STATISTICS**
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishcodes07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishcodes07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=krishcodes07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00D4FF&sideLabels=FFFFFF&dates=888888"/>
 </div>
 
@@ -106,12 +99,3 @@ echo "⚡ No shortcuts, only innovation"
 ```
 
 **"In a world full of basic projects, be absolutely insane."** ⚡
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=krishcodes07&style=for-the-badge&color=00D4FF&labelColor=000000)
-![GitHub Followers](https://img.shields.io/github/followers/krishcodes07?style=for-the-badge&color=00D4FF&labelColor=000000)
-
-</div>
